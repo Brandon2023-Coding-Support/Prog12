@@ -1,0 +1,45 @@
+.title {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    border-radius: 25px;
+    background: #427AA1;
+    padding: 5px;
+    width: 200px;
+    height: auto;
+    color: white;
+    margin: auto;
+}
+
+.image {
+    text-align: center;
+    border-radius: 25%;
+}
+
+img {
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+.facts {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 24px;
+    border-radius: 25px;
+    background: #064789;
+    padding: 20px;
+    width: 700px;
+    height: auto;
+    color: white;
+    margin: auto;
+}
+
+body {
+    background-color: #CEDFF3;
+}
+
+.under-title-text {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+}
