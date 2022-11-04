@@ -43,3 +43,13 @@ body {
     font-family: sans-serif;
     font-size: 18px;
 }
+
+.facts:hover{
+    transform: scale(1.08);
+    transition: 0.1s ease;
+}
+
+.image-test:hover {
+    transform: scale(1.08);
+    transition: 0.1s ease;
+}
