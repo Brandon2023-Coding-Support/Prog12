@@ -1,1 +1,1 @@
-complete i think
+the list arent centered
